@@ -6,6 +6,7 @@ int main(int argc, char** argv) {
         std::cout << "Usage: " << argv[0] << std::endl;
         return 0;
     }
+    
     std::cout << "Ultimate Sneed!" << std::endl;
-    return 0;
+    return 0; 
 } 
