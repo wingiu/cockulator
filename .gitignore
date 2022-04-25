@@ -1,5 +1,6 @@
 out/
-
+.vscode/
+bin/
 # Prerequisites
 *.d
 
